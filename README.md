@@ -9,7 +9,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>, I am Zachary </h1>
 
-<p align="center" width="150px"> I'm a Computing student at <a href="https://www.queensu.ca/"><b>Queen's University</b></a> specializing in <b><a href="https://www.cs.queensu.ca/undergraduate/programs/specializations/software-design.php">Software Design</a></b>.<br>
+<p align="center" width="150px"> I'm a Computing student at <a href="https://www.queensu.ca/"><b>Queen's University</b></a> with an option in <b><a href="https://www.cs.queensu.ca/undergraduate/programs/specializations/software-design.php](https://www.cs.queensu.ca/undergraduate/programs/sub-plans/security.php">Software Design</a></b>.<br>
 </p>
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=zacharygazaille&theme=chartreuse-dark"></p>
